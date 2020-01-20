@@ -5,6 +5,6 @@ export default () => (
         color: red;
       }
     `}</style>
-    <p>Build Test!</p>
+    <p>Build Testing!</p>
   </div>
 )
